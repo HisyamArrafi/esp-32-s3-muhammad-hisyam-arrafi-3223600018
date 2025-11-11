@@ -15,7 +15,7 @@ _________________________________________________________
 | Rotary Encoder CLK   | 10           | Input A         |
 | Rotary Encoder DT    | 11           | Input B         |
 | Rotary Encoder SW    | 12           | Push switch     |
-| Servo PWM            | 42           | Output PWM      |
+| Servo PWM            | 5            | Output PWM      |
 | Stepper B-           | 15           | Output coil     |
 | Stepper B+           | 16           | Output coil     |
 | Stepper A+           | 17           | Output coil     |
