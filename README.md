@@ -1,23 +1,17 @@
 # esp-32-s3-muhammad-hisyam-arrafi-3223600018
-Matakuliah Sistem Embedded konsep multitasking dan dual-core processing pada mikrokontroler ESP32-S3 Muhammad Hisyam Arrafi - 3223600018 - 3 D4 Teknik Komputer A
+Matakuliah Sistem Embedded konsep multitasking dan dual-core processing pada mikrokontroler ESP32-S3 
+**Nama:** Mohamad Irsyad Virgianto \
+**NRP:** 3223600026 \
+**Kelas:** 3 D4 Teknik Komputer A
 
-Komponen dan Pin yang Digunakan
-_________________________________________________________
-| Komponen             | Pin ESP32-S3 | Keterangan      |
-|----------------------|--------------|-----------------|
-| LED                  | 15           | Output          |
-| Buzzer               | 4            | Output          |
-| Push Button 1        | 1            | Input           |
-| Push Button 2        | 37           | Input           |
-| Potensiometer        | 36           | Analog input    |
-| OLED SDA             | 8            | I2C data        |
-| OLED SCL             | 9            | I2C clock       |
-| Rotary Encoder CLK   | 10           | Input A         |
-| Rotary Encoder DT    | 11           | Input B         |
-| Rotary Encoder SW    | 12           | Push switch     |
-| Servo PWM            | 5            | Output PWM      |
-| Stepper B-           | 15           | Output coil     |
-| Stepper B+           | 16           | Output coil     |
-| Stepper A+           | 17           | Output coil     |
-| Stepper A-           | 18           | Output coil     |
-_________________________________________________________
+| Video Hasil Percobaan                                                                 | Link Wokwi                                                                                     |
+|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| [Video Hasil Percobaan Semua Peripheral](https://drive.google.com/file/)                                         | [Wokwi Percobaan Semua Peripheral](https://wokwi.com/projects/447203025213572097)                           |
+| [Video Hasil Percobaan LED](https://drive.google.com/file/d/)                                         | [Wokwi Percobaan LED](https://wokwi.com/projects/447260800505947137)                           |
+| [Video Hasil Percobaan OLED](https://drive.google.com/file/)                                       | [Wokwi Percobaan OLED](https://wokwi.com/projects/447203811309229057)                           |
+| [Video Hasil Percobaan Buzzer](https://drive.google.com/file/)                                   | [Wokwi Percobaan Buzzer](https://wokwi.com/projects/447280511996153857)                           |
+| [Video Hasil Percobaan Motor Stepper](https://drive.google.com/file/d/1YD0p_FeZLuMqov_KmdMEHq8v3ZVplagm/view?usp=drive_link)                   | [Wokwi Percobaan Motor Stepper](https://wokwi.com/projects/447284087180700673)                           |
+| [Video Hasil Percobaan Button](https://drive.google.com/)                                   | [Wokwi Percobaan Button](https://wokwi.com/projects/447279587693093889)                           |
+| [Video Hasil Percobaan Potensiometer](https://drive.google.com/)                               | [Wokwi Percobaan Potensiometer](https://wokwi.com/projects/447281832714520577)                           |
+| [Video Hasil Percobaan Rotary Encoder](https://drive.google.com/file/d/1PaCnch8EZZoj2-mUvleiNhKYkuAx8QNp/view?usp=drive_link)                                 | [Wokwi Percobaan Rotary Encoder](https://wokwi.com/projects/447282860277262337)                           |
+| [Video Hasil Percobaan Motor Servo](https://drive.google.com/file/)                       | [Wokwi Percobaan Motor Servo](https://wokwi.com/projects/447281180436164609)              
