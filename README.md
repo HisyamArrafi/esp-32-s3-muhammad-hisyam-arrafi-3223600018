@@ -1,7 +1,7 @@
 # esp-32-s3-muhammad-hisyam-arrafi-3223600018
-Matakuliah Sistem Embedded konsep multitasking dan dual-core processing pada mikrokontroler ESP32-S3 
-**Nama:** Mohamad Irsyad Virgianto \
-**NRP:** 3223600026 \
+Matakuliah Sistem Embedded konsep multitasking dan dual-core processing pada mikrokontroler ESP32-S3\
+**Nama:** Muhammad Hisyam Arrafi \
+**NRP:** 3223600018 \
 **Kelas:** 3 D4 Teknik Komputer A
 
 | Video Hasil Percobaan                                                                 | Link Wokwi                                                                                     |
