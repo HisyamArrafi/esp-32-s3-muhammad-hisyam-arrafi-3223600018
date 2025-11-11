@@ -16,8 +16,8 @@ _________________________________________________________
 | Rotary Encoder DT    | 11           | Input B         |
 | Rotary Encoder SW    | 12           | Push switch     |
 | Servo PWM            | 42           | Output PWM      |
-| Stepper B-           | 37           | Output coil     |
-| Stepper B+           | 38           | Output coil     |
-| Stepper A+           | 39           | Output coil     |
-| Stepper A-           | 40           | Output coil     |
+| Stepper B-           | 15           | Output coil     |
+| Stepper B+           | 16           | Output coil     |
+| Stepper A+           | 17           | Output coil     |
+| Stepper A-           | 18           | Output coil     |
 _________________________________________________________
