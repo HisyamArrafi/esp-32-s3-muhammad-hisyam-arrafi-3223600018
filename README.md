@@ -7,8 +7,8 @@ _________________________________________________________
 |----------------------|--------------|-----------------|
 | LED                  | 15           | Output          |
 | Buzzer               | 4            | Output          |
-| Push Button 1        | 18           | Input           |
-| Push Button 2        | 19           | Input           |
+| Push Button 1        | 1            | Input           |
+| Push Button 2        | 37           | Input           |
 | Potensiometer        | 36           | Analog input    |
 | OLED SDA             | 8            | I2C data        |
 | OLED SCL             | 9            | I2C clock       |
